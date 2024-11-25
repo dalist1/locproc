@@ -78,7 +78,7 @@ bun run build
 bun start
 ```
 
-Visit `http://localhost:3000` to view the application.
+Visit `http://localhost:3000` to view the application
 
 ## Project Structure
 
